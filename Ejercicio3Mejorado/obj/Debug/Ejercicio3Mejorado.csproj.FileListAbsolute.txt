@@ -1,0 +1,7 @@
+C:\Users\Lucas\OneDrive\Documentos\AdhearxInterview\Ejercicio3Mejorado\bin\Debug\Ejercicio3Mejorado.exe.config
+C:\Users\Lucas\OneDrive\Documentos\AdhearxInterview\Ejercicio3Mejorado\bin\Debug\Ejercicio3Mejorado.exe
+C:\Users\Lucas\OneDrive\Documentos\AdhearxInterview\Ejercicio3Mejorado\bin\Debug\Ejercicio3Mejorado.pdb
+C:\Users\Lucas\OneDrive\Documentos\AdhearxInterview\Ejercicio3Mejorado\obj\Debug\Ejercicio3Mejorado.csprojAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\AdhearxInterview\Ejercicio3Mejorado\obj\Debug\Ejercicio3Mejorado.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\AdhearxInterview\Ejercicio3Mejorado\obj\Debug\Ejercicio3Mejorado.exe
+C:\Users\Lucas\OneDrive\Documentos\AdhearxInterview\Ejercicio3Mejorado\obj\Debug\Ejercicio3Mejorado.pdb
