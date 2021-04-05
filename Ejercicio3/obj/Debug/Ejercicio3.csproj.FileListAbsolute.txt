@@ -1,0 +1,6 @@
+D:\EntrevistaAdhearx\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\EntrevistaAdhearx\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\EntrevistaAdhearx\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\EntrevistaAdhearx\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\EntrevistaAdhearx\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\EntrevistaAdhearx\Ejercicio3\obj\Debug\Ejercicio3.pdb

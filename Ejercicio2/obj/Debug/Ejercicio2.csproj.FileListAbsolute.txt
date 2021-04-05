@@ -1,0 +1,7 @@
+D:\EntrevistaAdhearx\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\EntrevistaAdhearx\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\EntrevistaAdhearx\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\EntrevistaAdhearx\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+D:\EntrevistaAdhearx\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\EntrevistaAdhearx\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\EntrevistaAdhearx\Ejercicio2\obj\Debug\Ejercicio2.pdb

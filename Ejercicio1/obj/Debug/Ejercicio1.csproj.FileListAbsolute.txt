@@ -1,0 +1,7 @@
+D:\EntrevistaAdhearx\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\EntrevistaAdhearx\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\EntrevistaAdhearx\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\EntrevistaAdhearx\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+D:\EntrevistaAdhearx\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\EntrevistaAdhearx\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\EntrevistaAdhearx\Ejercicio1\obj\Debug\Ejercicio1.pdb
